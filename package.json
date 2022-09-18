@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "build": "run build",
+    "build": "webpack",
     "start": "nodemon src/index.js"
   },
   "author": "",
